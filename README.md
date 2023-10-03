@@ -24,8 +24,7 @@ Output screenshot-
 5] DELETE load that has the given loadId
 ![image](https://github.com/Pushpa-Mali/PushpaMaliLoadsAPI/assets/94977416/851cc198-8d43-4ea2-852a-2224d000e461)
 
-PostgreSQL screenshot
-![image](https://github.com/Pushpa-Mali/PushpaMaliLoadsAPI/assets/94977416/cd2cfe5b-abeb-426c-9d94-6a7cc8f7d718)
+
 
 
 
